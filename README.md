@@ -21,7 +21,6 @@ Sou apaixonado por tecnologia, desde sempre. E agora estou aprendendo a codar.
  <br/> :rocket:  &nbsp; Decidi entrar nesse mundo através do desenvolvimento **Web com Javascript**
  <br/> :computer: &nbsp; Para isso, estou aprendendo HTML, CSS, e Javascript
  <br/> :purple_heart: &nbsp; A lista de TO DO para aprender está grande. Dentre eles: *Bootstrap, React.js, Node.js, Sql, Git, Testes Automáticos, etc*
- <br/>  :chart_with_upwards_trend: &nbsp; Atualmente trabalho com projetos de implantação de centros logísticos
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games de RPG, filmes e artes marciais
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Fabiano_de_Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-de-souza-70813a6a/)](https://www.linkedin.com/in/fabiano-de-souza-70813a6a/) 
 | 
