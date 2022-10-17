@@ -25,3 +25,5 @@ Sou apaixonado por tecnologia, desde sempre. E agora estou aprendendo a codar.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Fabiano_de_Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-de-souza-70813a6a/)](https://www.linkedin.com/in/fabiano-de-souza-70813a6a/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-fbiano.souza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbiano.souza@gmail.com)](mailto:fbiano.souza@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fa-biano&show_icons=true&theme=dark)
