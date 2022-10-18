@@ -1,13 +1,10 @@
 # Olá, pessoal, sejam todos bem-vindos! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 ## Meu nome é Fabiano de Souza.
-Sou apaixonado por tecnologia, desde sempre. E agora estou aprendendo a codar.
 
-
- :zap: &nbsp; Meu objetivo é tirar as ideias do campo imaginario e trazê-las a vida através da programação
- <br/> :rocket:  &nbsp; Decidi entrar nesse mundo através do desenvolvimento **Web com Javascript**
- <br/> :computer: &nbsp; Para isso, estou aprendendo HTML, CSS, e Javascript
- <br/> :purple_heart: &nbsp; A lista de TO DO para aprender está grande. Dentre eles: *Bootstrap, React.js, Node.js, Sql, Git, Testes Automáticos, etc*
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games de RPG, filmes e artes marciais
+ <p>:calling: Sou apaixonado por tecnologia, desde sempre, e fascinado pelo mundo da programação. Adoro resolver problemas novos e tirar as idéias do papel.</p>
+ <p><strong>:rocket: Transição de Carreira:</strong> Após 15 anos trabalhando na área de logística e dos projetos físicos, estou fazendo minha transição de carreira pra essa área que sempre admirei muito.</p>
+ <p><strong>:zap: Principais objetivos:</strong> Concluir o Curso de Desenvolvimento Web Full Stack da Trybe e Arrumar um Emprego de Programador.</p>
+ <p><strong>:purple_heart: Curiosidades: </strong> Curto games de RPG por turno e filmes de artes marciais.</p>
 
 ## 💻 Skills
 <p>
