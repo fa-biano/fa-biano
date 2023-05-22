@@ -26,6 +26,7 @@
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" style="margin-bottom: 4px;" height="30px">
  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" style="margin-bottom: 4px;" height="30px">
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 🌟 Github Stats
