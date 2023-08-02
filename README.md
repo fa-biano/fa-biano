@@ -5,7 +5,7 @@
  <p><strong>:rocket: Transição de Carreira:</strong> Após 15 anos trabalhando na área de logística e dos projetos físicos, estou fazendo minha transição de carreira pra essa área que sempre admirei muito.</p>
  <p><strong>:zap: Principais objetivos:</strong> Me tornar um desenvolvedor de referência para o time, com capacidade de ajudar os demais e propror boas soluções.</p>
  <p><strong>:book: Conhecimentos Futuros:</strong> Interesse em estudar sobre Cloud (AWS), microserviços, serverless e DDD.</p>
- <p><strong>:purple_heart: Curiosidades: </strong> Curto games de RPG por turno, filmes de artes marciais e animes.</p>
+ <p><strong>:purple_heart: Curiosidades: </strong> Curto games de RPG tático por turno, filmes de artes marciais e animes.</p>
 
 ## 💻 Skills
 <p align="center">
