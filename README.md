@@ -2,9 +2,9 @@
 ## Meu nome é Fabiano de Souza.
 
  <p>:calling: Sou apaixonado por tecnologia, desde sempre, e fascinado pelo mundo da programação. Adoro resolver problemas novos e tirar as idéias do papel.</p>
- <p><strong>:rocket: Transição de Carreira:</strong> Após 15 anos trabalhando na área de logística e dos projetos físicos, estou fazendo minha transição de carreira pra essa área que sempre admirei muito.</p>
+ <p><strong>:rocket: Transição de Carreira:</strong> Após 15 anos trabalhando na área de logística e dos projetos físicos, fiz minha transição de carreira pra essa área que sempre admirei muito.</p>
  <p><strong>:zap: Principais objetivos:</strong> Me tornar um desenvolvedor de referência para o time, com capacidade de ajudar os demais e propror boas soluções.</p>
- <p><strong>:book: Conhecimentos Futuros:</strong> Interesse em estudar sobre Cloud (AWS), microserviços, serverless e DDD.</p>
+ <p><strong>:book: Conhecimentos Futuros:</strong> Aprofundar meus conhecimentos em cloud e estudar microserviços e serverless.</p>
  <p><strong>:purple_heart: Curiosidades: </strong> Curto games de RPG tático por turno, filmes de artes marciais e animes.</p>
 
 ## 💻 Skills
